@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apprecetascocinaftc",
+  "private_key_id": "a739c2270e69ae832a0fb7ff57cead53c5aee77a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCIMgDfYzcfbtI0\np6SvUbYDLQ2k0WhkuW1yD9OAAGTr0Tum+Ufel8UxRyP+FpXtpQ9Ou0m+VkZKOexb\nssY2b5ZIPpk/C7U7l6+rllGitXXcTq2/evFQMjtoNeZQPk4WXqELjGMFMEXZMYpf\niQ8AZzwRyijmlv6Y2YSLLwjEghrRZxW7Y58Ai4FUX50W7VwrB3FQZ/Qg+nWOTYe9\nMVOmSmIToqA61fVavUfyC5jLjBYz/80yMJFscylpv0SDxMZkXHygL1fLot+roa3x\nmj9UFqYWFrojet3oF5LJm8vr0+75Wg+WO0Y9eC/tWwaUBtoUgx+zBewDh0uLY2NI\nA2EsmvVjAgMBAAECggEAKAZp8zx5Kqeq5waNg2iEERLge5t/DnrgCzFTer6i6hqn\naT7BPE1mCkFZ9oY0sY5cnUq1NVateYrkR16WmdDZXYnoB3stW8IMQmT+wM6LQJ9u\nuGMtH+BjTRDqCpME59YPhhFP2GqDXH0OqVziJ8AvCxtaQcoGMG1cYnsEHJwPvZIc\nJ1OdlyrMMI2xVwUOsP00tcQl+9moTMhfdyeBlInf8eX+gugDxLrwBi43pDUHQIYE\n0p132o7r5jMMZzZEkNnZWvb8tGAsftvL2cjk1yNcL0XoGBRiAvFVwTGZ9ZEUwTMw\nSABQBbi/1gug6rt2FPf+BGfUL3QqiMno+v3FaKheAQKBgQDAkvK5Ykq7gmI64uHn\nR35uVM1OAQvKE873ECxNBW/r7sWuvtyk7QZV04Wgeh2W3pevMRe/uf7qmVRIQ6gi\nSMcTnUdMVIYZYBiN0oodYleYpNCKnfCgfIdRrTif+GRSHufkNYQHrHAck+O5b+Sm\nJwFlu+oAbr8H1vjuoJMBu9cwowKBgQC1DW9lZSV0Dsm7rJiXvUGV5b2wfgsBhhNu\nEf9u/rNgj6ZxBTfNoJziQrNMIWmql1EvKzpjUlgWVskOgokNSL5fbjF5Gr/TpyOK\nRnMzis/cwm7CtxXh4A+9b3FuhvzY2UbswfNgTPegT8v1EJ3Ap9SFbkkNI6NJbyIS\nVgDgO3e0QQKBgQCqgPFb5oVYpEao8L0nc4uj0H2+tPplP0ieQ7mVsFy6PrzUzbS6\nagqT7yZ/Qd/09rzCpurqHJpxyLRxD0ZMpLduzHCWSrg4u3bCC0myXqJESplCQjkN\nP3TogkCCkwDwHOEgk6mEyc6x3tdgFowR+LMqCklTfLqzDEl3rsC6ZkBPlQKBgQCZ\nXOoRf548MxKbENapIj1eFh+aUwpLniDzSfePM90KXGRmtD7SxcxetJVgVaVGRasV\nQ47P9z56ncTtr5EcWZQ5DgSGSyxWwuuOA6Mt89WjcGeWNLQqgzuSAcaaE2o23cYA\nY0IfPtM7Tpy71/lo6kFRTVw/7wIwAB1iXsubJYR+gQKBgCWGvqf5R/RSVzkxUX+2\nnEQz7mgrbNCluq+PrbHSCATd6JAT+i/hlfLs/mxz6Kmp6NTLVPusI/0YvSTKidms\n+VcFncA5fBLet+kFD/aQaMmF+JuLIml9Dl0ECLt9TjifZFU/K92LuQHyH1bSr9cW\nkBpfQnwGUM9xkQNDPmVWjRyW\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-828rh@apprecetascocinaftc.iam.gserviceaccount.com",
+  "client_id": "100241871940555679379",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-828rh%40apprecetascocinaftc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
